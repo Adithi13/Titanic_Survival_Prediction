@@ -17,7 +17,7 @@ The Titanic Survival Prediction project uses logistic regression to classify pas
 
 1. **Clone the repository:**
   ```
-   git clone [[https://github.com/Adithi13/FakeNews_Classification.git](https://github.com/Adithi13/Aarambh-_Smart-First_-Aid-_Assistant.git)](https://github.com/Adithi13/Titanic_Survival_Prediction.git)
+   git clone (https://github.com/Adithi13/Titanic_Survival_Prediction.git)
   ```
 
 2. **Navigate to the project directory:**
