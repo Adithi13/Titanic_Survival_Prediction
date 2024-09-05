@@ -23,7 +23,7 @@ The Titanic Survival Prediction project uses logistic regression to classify pas
 2. **Navigate to the project directory:**
 
     ```
-      cd Fake-News-Classification
+      cd Titanic_Survival_Prediction
     ```
 
 ## Results
